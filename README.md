@@ -1,2 +1,2 @@
-# blog_website
+# bloging_website
 blogging website in django
